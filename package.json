@@ -2,7 +2,7 @@
   "name": "careyouthwebapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SujayGG.github.io/Care4YouthWebsite",
+  "homepage": ".",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.14.0",
